@@ -6,7 +6,7 @@ pipeline {
     }
 
     environment {
-        JAR_FILE = "target/MyMavenGuavaApp-1.0-SNAPSHOT.jar"
+        JAR_FILE = "target/MyMavenToGradle-1.0-SNAPSHOT.jar"
     }
 
     stages {
